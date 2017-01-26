@@ -5,7 +5,10 @@ body, h1, h2, h3, h4, h5, h6 {
   font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif}
 }
 
-img {float: left; padding 0 10px 10px 0}
+img {
+  float:left; 
+  padding 0 10px 10px 0;
+}
 
 .btn {
   border-radius: 3em;
