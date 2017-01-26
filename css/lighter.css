@@ -7,8 +7,11 @@ body, h1, h2, h3, h4, h5, h6 {
 
 img {
   float:left; 
-  padding 0 10px 10px 0;
+  padding: 0 10px 10px 0;
+  width: 50%;
+  height: 50%;
 }
+
 
 .btn {
   border-radius: 3em;
