@@ -5,12 +5,28 @@ body, h1, h2, h3, h4, h5, h6 {
   font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif}
 }
 
+.left-image {
+    float: left; 
+    margin-right:10px; 
+    margin-bottom:10px;
+    }
+
 .btn {
   border-radius: 3em;
 }
 .container {
   max-width: 900px;
 }
+
+.container img {
+
+  float:left;
+  margin-right:1.9em;
+  margin-bottom:0.9em;
+  width:30%;
+  height:30%;
+}
+
 .container-alternate {
   background: #f0f0f0;
 }
@@ -51,6 +67,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .jumbotron h1 {
   font-family: georgia, serif;
   font-size: 2.5em;
+   color: #333;
 }
 .jumbotron h2 {
   font-size: 1.2em;
