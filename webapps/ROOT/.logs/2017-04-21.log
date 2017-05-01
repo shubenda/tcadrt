@@ -1,0 +1,5 @@
+23:53:36.291	SERVER	admin	OK	Server was started (port: 1984).
+23:55:23.805	107.194.254.78:49436	admin	REQUEST	[GET] http://tcadrt.org/img/tool-image.jpg
+23:55:29.700	107.194.254.78:49436	admin	404	No function found that matches the request.	5897.28 ms
+23:57:09.955	107.194.254.78:49458	admin	REQUEST	[GET] http://tcadrt.org/img/tool-image.jpg
+23:57:10.258	107.194.254.78:49458	admin	404	No function found that matches the request.	303.47 ms
