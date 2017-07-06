@@ -1,8 +1,8 @@
 xquery version "3.1";
 
-module namespace content = 'http://tcadrt.vanderbilt.edu/content';
+module namespace view = 'http://tcadrt.vanderbilt.edu/view';
 
-declare function content:home($list as element(span)?)
+declare function view:home($list as element(span)?)
 {
 	<html>
   <head>
@@ -52,7 +52,7 @@ declare function content:home($list as element(span)?)
 
      {
        if ($list) then $list
-       else content:introduction()
+       else view:introduction()
      }
 
 
@@ -77,7 +77,7 @@ declare function content:home($list as element(span)?)
 
 };
 
-declare function content:tool()
+declare function view:tool()
 {
 <html>
 <head>
@@ -259,13 +259,13 @@ declare function content:tool()
 
 };
 
-declare function content:detail()
+declare function view:detail()
 {
 
 
 };
 
-declare function content:introduction() as element(span)
+declare function view:introduction() as element(span)
 {
   <span>
    <p><div class="featured_image"><img src="static/img/Lingyansi-medium.jpg" id="home-image"/><br/><em>Pizhita (Pratyeka Pagoda)</em>, 1057 CE</div>The Traditional Chinese Architecture Digital Research Tool is, at its core, a digital image archive of the monumental architecture of pre-modern China. The dataset is focused on our earliest extant examples of timber-frame architecture in China, largely dating from the 8th-13th centuries, and includes information on construction techniques as well as stylistic features. The vast majority of these buildings were constructed for ritual purposes, therefore data on style and structure of the buildings, as well as epigraphic information on site concerning patronage, have the potential to enhance not only our understanding of the aesthetics of traditional Chinese architecture over time and space, but also our understanding of the trade networks, crafts traditions, and spiritual aspirations of people living in pre-modern China.</p>
@@ -282,7 +282,7 @@ declare function content:introduction() as element(span)
      </span>
 };
 
-declare function content:buildings-by-feature($feature as xs:string?) as element(span)
+declare function view:buildings-by-feature($feature as xs:string?) as element(span)
 {
   let $structural-elements := fn:collection("structural-elements")
   let $buildings := fn:collection("building")
@@ -315,7 +315,7 @@ declare function content:buildings-by-feature($feature as xs:string?) as element
    }
  };
 
-declare function content:list-sites($feature as xs:string?) as element(span)
+declare function view:list-sites($feature as xs:string?) as element(span)
 {
   element span {
      element h1 {"Sites and Buildings"},
