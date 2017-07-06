@@ -1,0 +1,241 @@
+<data>
+  <constants>
+    <record>
+      <domainRoot>http://tcadrt.org/ontology/</domainRoot>
+      <coreClassFile>structural-elements.csv</coreClassFile>
+      <documentClass>foaf:Document</documentClass>
+      <creator>Vanderbilt Department of History of Art</creator>
+      <outputDirectory>c:\test\output\</outputDirectory>
+      <outFileNameAfter/>
+      <separator>,</separator>
+      <baseIriColumn>identifier</baseIriColumn>
+      <modifiedColumn>modified</modifiedColumn>
+    </record>
+  </constants>
+  <column-index>
+    <record>
+      <header>skos_pref_label_pinyin</header>
+      <predicate>rdfs:label</predicate>
+      <type>plain</type>
+      <value/>
+      <attribute/>
+      <subject_id>$root</subject_id>
+    </record>
+    <record>
+      <header>skos_pref_label_pinyin</header>
+      <predicate>skos:prefLabel</predicate>
+      <type>language</type>
+      <value/>
+      <attribute>zh-latn-pinyin</attribute>
+      <subject_id>$root</subject_id>
+    </record>
+    <record>
+      <header>skos_pref_label_hant</header>
+      <predicate>skos:prefLabel</predicate>
+      <type>language</type>
+      <value/>
+      <attribute>zh-hant</attribute>
+      <subject_id>$root</subject_id>
+    </record>
+    <record>
+      <header>skos_pref_label_hans</header>
+      <predicate>skos:prefLabel</predicate>
+      <type>language</type>
+      <value/>
+      <attribute>zh-hans</attribute>
+      <subject_id>$root</subject_id>
+    </record>
+    <record>
+      <header>skos_definition</header>
+      <predicate>rdfs:comment</predicate>
+      <type>language</type>
+      <value/>
+      <attribute>en</attribute>
+      <subject_id>$root</subject_id>
+    </record>
+    <record>
+      <header>$constant</header>
+      <predicate>rdfs:isDefinedBy</predicate>
+      <type>iri</type>
+      <value>tcao:</value>
+      <attribute/>
+      <subject_id>$root</subject_id>
+    </record>
+  </column-index>
+  <namespaces>
+    <record>
+      <curie>rdf</curie>
+      <value>http://www.w3.org/1999/02/22-rdf-syntax-ns#</value>
+    </record>
+    <record>
+      <curie>rdfs</curie>
+      <value>http://www.w3.org/2000/01/rdf-schema#</value>
+    </record>
+    <record>
+      <curie>xsd</curie>
+      <value>http://www.w3.org/2001/XMLSchema#</value>
+    </record>
+    <record>
+      <curie>foaf</curie>
+      <value>http://xmlns.com/foaf/0.1/</value>
+    </record>
+    <record>
+      <curie>dc</curie>
+      <value>http://purl.org/dc/elements/1.1/</value>
+    </record>
+    <record>
+      <curie>dcterms</curie>
+      <value>http://purl.org/dc/terms/</value>
+    </record>
+    <record>
+      <curie>skos</curie>
+      <value>http://www.w3.org/2004/02/skos/core#</value>
+    </record>
+    <record>
+      <curie>tcao</curie>
+      <value>http://tcadrt.org/ontology/</value>
+    </record>
+  </namespaces>
+  <base-classes>
+    <record>
+      <id>$root</id>
+      <class>rdf:Property</class>
+    </record>
+  </base-classes>
+  <linked-classes/>
+  <metadata>
+    <record>
+      <skos_pref_label_hant>柱頭鋪作斜栱</skos_pref_label_hant>
+      <skos_pref_label_hans>柱头铺作斜栱</skos_pref_label_hans>
+      <skos_pref_label_pinyin>zhutou puzuo xiegong</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>ct_angled_bracket_arm</identifier>
+      <skos_definition>column top angled bracket arm</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>轉角鋪作斜栱</skos_pref_label_hant>
+      <skos_pref_label_hans>转角铺作斜栱</skos_pref_label_hans>
+      <skos_pref_label_pinyin>zhuanjiao puzuo xiegong</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>corner_angled_bracket_arm</identifier>
+      <skos_definition>angled bracket arm on corner column; zhuanjiao puzuo xiegong;
+        mojiaogong</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>補間鋪作斗栱</skos_pref_label_hant>
+      <skos_pref_label_hans>补间铺作斗栱</skos_pref_label_hans>
+      <skos_pref_label_pinyin>bujian puzuo dougong</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>ic_angled_bracket_arm</identifier>
+      <skos_definition>angled bracket arm between columns</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>柱頭鋪作同補間鋪作</skos_pref_label_hant>
+      <skos_pref_label_hans>补间铺作同柱头铺作</skos_pref_label_hans>
+      <skos_pref_label_pinyin>bujian puzuo tong zhutou puzuo</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>ic_match_ct</identifier>
+      <skos_definition>do the intercolumnar bracket sets match the column top bracket
+        sets</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>明間鋪作數</skos_pref_label_hant>
+      <skos_pref_label_hans>明间铺作数</skos_pref_label_hans>
+      <skos_pref_label_pinyin>mingjian puzuo shu</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>number_of_ic_in_central_bay</identifier>
+      <skos_definition>number of intercolumnar bracket sets in central bay</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>普拍枋</skos_pref_label_hant>
+      <skos_pref_label_hans>普拍枋</skos_pref_label_hans>
+      <skos_pref_label_pinyin>pupaifang</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>pupaifang</identifier>
+      <skos_definition>is there a column top architrave?</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>偷心造</skos_pref_label_hant>
+      <skos_pref_label_hans>偷心造</skos_pref_label_hans>
+      <skos_pref_label_pinyin>touxinzao</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>first_step_touxin</identifier>
+      <skos_definition>the first step of huagong does not have a crossing bracket
+        arm</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>計心造</skos_pref_label_hant>
+      <skos_pref_label_hans>计心造</skos_pref_label_hans>
+      <skos_pref_label_pinyin>jixinzao</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>first_step_jixin</identifier>
+      <skos_definition>the first step of huagong does have a crossing bracket arm</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>側腳</skos_pref_label_hant>
+      <skos_pref_label_hans>侧脚</skos_pref_label_hans>
+      <skos_pref_label_pinyin>cejiao</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>cejiao</identifier>
+      <skos_definition>batter or inward incline of eaves columns</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>批竹下昂</skos_pref_label_hant>
+      <skos_pref_label_hans>批竹下昂</skos_pref_label_hans>
+      <skos_pref_label_pinyin>pizhu xiaang</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>pizhu_xiaang</identifier>
+      <skos_definition>split-bamboo descending cantilever</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>琴面下昂</skos_pref_label_hant>
+      <skos_pref_label_hans>琴面下昂</skos_pref_label_hans>
+      <skos_pref_label_pinyin>qinmian xiaang</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>qinmian_xiaang</identifier>
+      <skos_definition>lute-face descending cantilever</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>琴面/批竹下昂</skos_pref_label_hant>
+      <skos_pref_label_hans>琴面/批竹下昂</skos_pref_label_hans>
+      <skos_pref_label_pinyin>qinmian-pizhu xiaang</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>qinmian-pizhu_xiaang</identifier>
+      <skos_definition>split-bamboo/lute face descending cantilever</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>鋪作下昂數</skos_pref_label_hant>
+      <skos_pref_label_hans>铺作下昂数</skos_pref_label_hans>
+      <skos_pref_label_pinyin>puzuo xiaang shu</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>number_of_xiaang</identifier>
+      <skos_definition>total number of descending cantilever</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>下昂形耍頭</skos_pref_label_hant>
+      <skos_pref_label_hans>下昂形耍头</skos_pref_label_hans>
+      <skos_pref_label_pinyin>xiaangxing shuatou</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>ang-shaped_shuatou</identifier>
+      <skos_definition>descending cantilever-shaped shuatou</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>抹角令栱</skos_pref_label_hant>
+      <skos_pref_label_hans>抹角令栱</skos_pref_label_hans>
+      <skos_pref_label_pinyin>mojiao linggong</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>beveled_linggong</identifier>
+      <skos_definition>linggong beveled outward towards the building plane</skos_definition>
+    </record>
+    <record>
+      <skos_pref_label_hant>令栱有卷殺</skos_pref_label_hant>
+      <skos_pref_label_hans>令栱有卷殺</skos_pref_label_hans>
+      <skos_pref_label_pinyin>linggong you juansha</skos_pref_label_pinyin>
+      <modified>2017-04-27T08:45:00-05:00</modified>
+      <identifier>chamfered_linggong</identifier>
+      <skos_definition>linggong curved along the elbow with straight cuts instead of an
+        arc</skos_definition>
+    </record>
+  </metadata>
+  <linked-metadata/>
+</data>
